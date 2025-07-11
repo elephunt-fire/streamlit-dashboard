@@ -25,14 +25,13 @@ Official Site: [https://streamlit.io](https://streamlit.io)
 pip install streamlit
 ```
 
-5. (Optional) Add the following to your `requirements.txt`:
+5. Add the following to your `requirements.txt`:
 
 ```
 streamlit
 pandas
 matplotlib
 seaborn
-openpyxl
 ```
 
 ---
@@ -83,8 +82,6 @@ All visualizations are interactive and update instantly when the user changes th
 - **Streamlit**
 - **Pandas**
 - **Matplotlib / Seaborn**
-- **OpenPyXL** (for reading Excel files)
-
 ---
 
 ## 📌 To Do
