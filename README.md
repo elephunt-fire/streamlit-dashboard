@@ -29,20 +29,21 @@ pip install streamlit
 
 ```
 streamlit
-pandas
-matplotlib
+plotly
 seaborn
+matplotlib
+scikit-learn
 ```
 
 ---
 
 ## 📁 How to Run the Project
 
-1. Save your Python Streamlit script, for example: `app.py`
+1. Save your Python Streamlit script, for example: `bashboard.py`
 2. Open terminal in the directory of the project and run:
 
 ```bash
-streamlit run app.py
+streamlit run bashboard.py
 ```
 
 3. The app will launch in your default browser.
@@ -87,7 +88,7 @@ All visualizations are interactive and update instantly when the user changes th
 ## 📌 To Do
 
 - [ ] Add export/download option for filtered data
-- [ ] Support `.xlsx` files
+- [ ] Support `.xls` files
 - [ ] Add user guide video or GIF
 
 ---
