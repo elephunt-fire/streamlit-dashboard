@@ -25,7 +25,7 @@ Official Site: [https://streamlit.io](https://streamlit.io)
 pip install streamlit
 ```
 
-5. Add the following to your `requirements.txt`:
+5. Add the following to your `installation.txt`:
 
 ```
 streamlit
