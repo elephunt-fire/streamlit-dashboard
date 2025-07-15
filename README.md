@@ -74,6 +74,7 @@ All visualizations are interactive and update instantly when the user changes th
 ## 📷 Example Screenshots
 
 *(Add your screenshots here to showcase how the app looks)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9944bd2c-885d-4e46-83b6-0063a5c2fc2f" />
 
 ---
 
@@ -87,9 +88,9 @@ All visualizations are interactive and update instantly when the user changes th
 
 ## 📌 To Do
 
-- [ ] Add export/download option for filtered data
-- [ ] Support `.xls` files
-- [ ] Add user guide video or GIF
+- Add export/download option for filtered data
+- Support `.xls` files
+- Add user guide video or GIF
 
 ---
 
